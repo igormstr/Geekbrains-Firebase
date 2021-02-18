@@ -45,7 +45,6 @@
                                         <state key="normal" title="Search_Text_Suggest_Send (бургер)"/>
                                         <connections>
                                             <action selector="didTapFourButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="XIl-1k-ETf"/>
-                                            <action selector="didTapThreeButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="aA0-yq-CDe"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vD5-p8-vtE">
@@ -53,7 +52,6 @@
                                         <state key="normal" title="Search_Text_Send (суши)"/>
                                         <connections>
                                             <action selector="didTapFiveButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ZZh-S6-QWy"/>
-                                            <action selector="didTapThreeButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vi1-Af-dYq"/>
                                         </connections>
                                     </button>
                                 </subviews>
